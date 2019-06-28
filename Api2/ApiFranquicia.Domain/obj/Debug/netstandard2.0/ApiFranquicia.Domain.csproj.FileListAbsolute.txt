@@ -1,0 +1,9 @@
+C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\bin\Debug\netstandard2.0\ApiFranquicia.Domain.deps.json
+C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\bin\Debug\netstandard2.0\ApiFranquicia.Domain.dll
+C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\bin\Debug\netstandard2.0\ApiFranquicia.Domain.pdb
+C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.csprojAssemblyReference.cache
+C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.AssemblyInfoInputs.cache
+C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.AssemblyInfo.cs
+C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.dll
+C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.pdb
