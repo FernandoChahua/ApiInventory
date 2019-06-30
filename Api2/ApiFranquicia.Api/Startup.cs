@@ -21,6 +21,7 @@ namespace ApiFranquicia.Api
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            
         }
 
         public IConfiguration Configuration { get; }
@@ -30,6 +31,13 @@ namespace ApiFranquicia.Api
         {
             services.AddDbContext<ApplicationDbContext>(options=>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy("Todos",
+                builder => builder.WithOrigins("*").WithHeaders("*").WithMethods("*"));
+            });
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -45,8 +53,8 @@ namespace ApiFranquicia.Api
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
-            app.UseHttpsRedirection();
+            app.UseCors("Todos");
+            //app.UseHttpsRedirection();
             app.UseMvc();
         }
     }

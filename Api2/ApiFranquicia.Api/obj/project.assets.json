@@ -12122,11 +12122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Api\\ApiFranquicia.Api.csproj",
+      "projectUniqueName": "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Api\\ApiFranquicia.Api.csproj",
       "projectName": "ApiFranquicia.Api",
-      "projectPath": "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Api\\ApiFranquicia.Api.csproj",
+      "projectPath": "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Api\\ApiFranquicia.Api.csproj",
       "packagesPath": "C:\\Users\\nanfo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Api\\obj\\",
+      "outputPath": "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12145,11 +12145,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj": {
-              "projectPath": "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj"
+            "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj": {
+              "projectPath": "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj"
             },
-            "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Repository\\ApiFranquicia.Repository.csproj": {
-              "projectPath": "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Repository\\ApiFranquicia.Repository.csproj"
+            "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Repository\\ApiFranquicia.Repository.csproj": {
+              "projectPath": "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Repository\\ApiFranquicia.Repository.csproj"
             }
           }
         }

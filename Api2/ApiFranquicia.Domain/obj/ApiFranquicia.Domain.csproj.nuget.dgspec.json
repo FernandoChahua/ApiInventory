@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj": {}
+    "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj": {
+    "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj",
+        "projectUniqueName": "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj",
         "projectName": "ApiFranquicia.Domain",
-        "projectPath": "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj",
+        "projectPath": "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Domain\\ApiFranquicia.Domain.csproj",
         "packagesPath": "C:\\Users\\nanfo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nanfo\\Desktop\\Api2\\ApiFranquicia.Domain\\obj\\",
+        "outputPath": "C:\\Github\\ApiInventory\\Api2\\ApiFranquicia.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

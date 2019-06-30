@@ -7,3 +7,12 @@ C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFra
 C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.AssemblyInfo.cs
 C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.dll
 C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.pdb
+C:\Github\ApiInventory\Api2\ApiFranquicia.Domain\bin\Debug\netstandard2.0\ApiFranquicia.Domain.deps.json
+C:\Github\ApiInventory\Api2\ApiFranquicia.Domain\bin\Debug\netstandard2.0\ApiFranquicia.Domain.dll
+C:\Github\ApiInventory\Api2\ApiFranquicia.Domain\bin\Debug\netstandard2.0\ApiFranquicia.Domain.pdb
+C:\Github\ApiInventory\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.csprojAssemblyReference.cache
+C:\Github\ApiInventory\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.csproj.CoreCompileInputs.cache
+C:\Github\ApiInventory\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.AssemblyInfoInputs.cache
+C:\Github\ApiInventory\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.AssemblyInfo.cs
+C:\Github\ApiInventory\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.dll
+C:\Github\ApiInventory\Api2\ApiFranquicia.Domain\obj\Debug\netstandard2.0\ApiFranquicia.Domain.pdb

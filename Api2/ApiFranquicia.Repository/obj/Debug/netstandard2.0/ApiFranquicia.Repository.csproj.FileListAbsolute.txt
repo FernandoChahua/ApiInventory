@@ -10,3 +10,15 @@ C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\Ap
 C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.csproj.CopyComplete
 C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.dll
 C:\Users\nanfo\Desktop\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.pdb
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\bin\Debug\netstandard2.0\ApiFranquicia.Repository.deps.json
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\bin\Debug\netstandard2.0\ApiFranquicia.Repository.dll
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\bin\Debug\netstandard2.0\ApiFranquicia.Repository.pdb
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\bin\Debug\netstandard2.0\ApiFranquicia.Domain.dll
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\bin\Debug\netstandard2.0\ApiFranquicia.Domain.pdb
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.csprojAssemblyReference.cache
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.csproj.CoreCompileInputs.cache
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.AssemblyInfoInputs.cache
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.AssemblyInfo.cs
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.csproj.CopyComplete
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.dll
+C:\Github\ApiInventory\Api2\ApiFranquicia.Repository\obj\Debug\netstandard2.0\ApiFranquicia.Repository.pdb
